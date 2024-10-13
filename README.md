@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SANTHOJI V
 - 👀 I’m interested in DATA ANALYTICS, WEB DEVELOPMENT,NATIVE DEVELOPMENT.
 - 🌱 I’m currently learning DATA ANAYTICS AND NATIVE DEVELOPMENT
--     Ready to Collobrate..
 - 📫 How to reach me-EMAIL AT santhoji07msd@gmail.com or DM ON LINKEDIN @Santhoji or DM ON INSTAGRAM @santhojx07
 - ⚡"Face the Failure, until the Failure fails to face you"
+- Ready to Collobrate..
