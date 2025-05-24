@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoji07&label=Profile%20views&color=0e75b6&style=flat" alt="santhoji07" /> </p>
 
+<p align="left"> <a href="https:https://santhoji07.github.io/Portfolio/"><img src="https://www.google.com/imgres?q=portfolio%20icon&imgurl=https%3A%2F%2Fwww.creativefabrica.com%2Fwp-content%2Fuploads%2F2022%2F07%2F29%2FOccupation-business-portfolio-icon-Graphics-35104847-1.jpg&imgrefurl=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Foccupation-business-portfolio-icon-2%2F&docid=ZX35GFsfvuF4mM&tbnid=EeaR1_AWLPpd3M&vet=12ahUKEwiWnJ-b_ryNAxVEZfUHHZ1IHokQM3oECBYQAA..i&w=4028&h=2681&hcb=2&ved=2ahUKEwiWnJ-b_ryNAxVEZfUHHZ1IHokQM3oECBYQAA" alt="santhoji07" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoji07" alt="santhoji07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/santhoji07" target="blank"><img src="https://img.shields.io/twitter/follow/santhoji07?logo=twitter&style=for-the-badge" alt="santhoji07" /></a> </p>
