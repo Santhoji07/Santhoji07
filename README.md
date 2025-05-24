@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Data Analytics and Native Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Santhoji07/Portfolio.git](https://github.com/Santhoji07/Portfolio.git)
+- 👨‍💻 All of my projects are available at (Santhoji V Portfolio)  [https://santhoji07.github.io/Portfolio/]
 
 - 💬 Ask me about **Web Development related stuffs**
 
-- 📫 How to reach me **santhoji07msd@gmail.com**
+- 📫 How to reach me **santhoji077@gmail.com**
 
 - ⚡ Fun fact **cracking jokes as well as bugs**
 
