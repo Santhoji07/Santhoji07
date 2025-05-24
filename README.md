@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/santhoji07" target="blank"><img src="https://img.shields.io/twitter/follow/santhoji07?logo=twitter&style=for-the-badge" alt="santhoji07" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Machine Learning and Java Projects**
 
 - 🌱 I’m currently learning **Data Analytics and Native Development**
 
