@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI/ML and Full Stack Web Development Projects**
 
-- 🌱 I’m currently learning **AI/ML & Data Analytics **
+- 🌱 I’m currently learning **AI/ML & Data Analytics**
 
 - 👨‍💻 All of my projects are available at (Santhoji V Portfolio)  [https://santhoji-portfolio-in.onrender.com/]
 
